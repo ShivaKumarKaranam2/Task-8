@@ -10,7 +10,7 @@ This project demonstrates the application of **Unsupervised Machine Learning** u
 - [Scikit-learn](https://scikit-learn.org/stable/)
 
 ## 📁 Dataset
--[Dataset](https://www.kaggle.com/datasets/vjchoudhary7/customer-segmentation-tutorial-in-python)
+-[Dataset](https://www.kaggle.com/datasets/vjchoudhary7/customer-segmentation-tutorial-in-python) - Mall Customer Segmentation Data
 ## 🧪 Tasks Performed
 1. Importing necessary libraries.
 2. Loading and exploring the dataset.
